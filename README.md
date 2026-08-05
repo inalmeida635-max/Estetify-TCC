@@ -24,5 +24,5 @@ No momento, a equipe está iniciando a fase de programação, desenvolvendo as f
 [estetify.html](https://github.com/user-attachments/files/30683562/estetify.html)
 
 ## Link Wiki do Projeto: 
-
+https://github.com/inalmeida635-max/Estetify-TCC/wiki
 
