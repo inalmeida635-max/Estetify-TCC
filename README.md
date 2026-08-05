@@ -1,6 +1,7 @@
 Nome do projeto: ESTETIFY
 
 Nome das integrantes:
+
 Ana Lívia Carvalho Antunes
 Eduarda Beatriz Pereira da Silva
 Evelyn Nunes Carvalho
